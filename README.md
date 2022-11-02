@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pard3sh
-- 👀 I’m interested in beginning my career in computer science
-- 🌱 I’m currently learning how to make my own app
+- 👀 I’m interested in working on more web/mobile development projects
+- 🌱 I’m currently learning front end development
