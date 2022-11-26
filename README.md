@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Pard3sh
 - 👀 I’m interested in working on more web/mobile development projects
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning front end and back end development
+-  Front end in ReactNative
+-  Learning Flask framework for backend 
