@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Pard3sh
-- 👀 I’m interested in working on more web/mobile development projects, as well as computational science projects
-- 🌱 I’m currently learning back end development
--  Learning Flask framework for backend
--  Completing MERN stack project for Hack4Impact
+- 👀 Current Projects:
+  - Calculator in Python using tkinter
+  - ENG CST migration
+  - ENG Lobby Display
+  - Reading Group Website
+
